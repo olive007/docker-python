@@ -1,4 +1,4 @@
-# Docker Container with Python and Django installed
+# Docker Container with Python configured
 
  - Several usefull package are installed.
  - SSH server is configured
